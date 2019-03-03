@@ -12,7 +12,7 @@ else:
     space_count = count-1
     step_count = count - space_count
     while count > 0:
-        stairs = space*space_count + step * step_count
+        stairs = space * space_count + step * step_count
         print(stairs)
         count -= 1
         space_count -= 1
