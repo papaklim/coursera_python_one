@@ -9,4 +9,5 @@ else:
     sum = 0
     for i in digit_string:
         sum = sum + int(i)
-    print("Сумма чисел аргумента = " +str(sum))
+    print("Сумма чисел аргумента = " + str(sum))
+
